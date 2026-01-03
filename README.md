@@ -2,17 +2,16 @@
   <img src="assets/Hello.gif" alt="Welcome_gif" />
 </p>
 
-<h1 align="center">Hi, I'm <strong>Aditya Dorwal</strong> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="75" height="75" /></h1>
+<h1 align="center">Hi, I'm <strong>Kumkum Solanki</strong> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="75" height="75" /></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&center=true&vCenter=true&width=760&lines=AI+Engineer+who+ships+fast%2C+clean+ML+projects;Real-time+Speech+%E2%80%A2+Explainable+CV+%E2%80%A2+NLP;Open-source+mindset+%7C+DSA+daily" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-dorwal-b4a488288/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://adityadorwal.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
-  <a href="mailto:18dorwaladitya@gmail.com"><img src="https://img.shields.io/badge/Email-EE4B2B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=adityadorwal&style=for-the-badge&color=blueviolet" />
+  <a href="https://www.linkedin.com/in/kumkum-solanki-892a40281//"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kumkumsolanki011@gmail.com"><img src="https://img.shields.io/badge/Email-EE4B2B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=kumkumsolanki&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
@@ -20,7 +19,7 @@
 ## 🔥 About
 I turn research ideas into **usable, fast demos**. Recently exploring **real‑time speech transcription**, **explainable computer vision**, and **efficient ML pipelines**.
 
-- 🎓 B.Tech (AIML), KCC — 3rd year
+- 🎓 B.Tech (AIML), KCC — 4th year
 - 🧠 Interested in: **Whisper.cpp**, **Grad‑CAM**, **local LLMs**, and **offline‑first AI tools**
 - 🤝 Open to: **SDE/ML internships**, open‑source collabs
 - ⚡ Real-time speech & local AI tools
