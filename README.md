@@ -47,26 +47,6 @@ A real-time speech transcription tool built around **Whisper.cpp**. This project
 ---
 
 
-
-## 📊 Live Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityadorwal&theme=dark&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityadorwal&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadorwal&layout=compact&theme=transparent" />
-</p>
-
----
-
-## 📝 Recent Posts
-<!-- BLOG-POST-LIST:START -->
-- *(loading…)*
-<!-- BLOG-POST-LIST:END -->
-
----
-
-
 ---
 
 <p align="center">
@@ -74,7 +54,7 @@ A real-time speech transcription tool built around **Whisper.cpp**. This project
 </p>
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/aditya-dorwal-b4a488288/) · [Portfolio](https://adityadorwal.github.io/portfolio/) · [Email](18dorwaladitya@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kumkum-solanki-892a40281/) · [Portfolio](https://adityadorwal.github.io/portfolio/) · [Email](kumkumsolanki0111@gmail.com)
 ---
 
 <p align="center">Made with ❤️—A focus on a seamless user experience, including lightweight animations and Dark & Light variants.</p>
