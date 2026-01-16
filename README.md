@@ -54,7 +54,8 @@ A real-time speech transcription tool built around **Whisper.cpp**. This project
 </p>
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/kumkum-solanki-892a40281/) · [Portfolio](https://adityadorwal.github.io/portfolio/) · [Email](kumkumsolanki0111@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kumkum-solanki-892a40281/) · [Portfolio](https://adityadorwal.github.io/portfolio/) · [Email](Contact: kumkumsolanki0111@gmail.com
+)
 ---
 
 <p align="center">Made with ❤️—A focus on a seamless user experience, including lightweight animations and Dark & Light variants.</p>
