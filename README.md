@@ -38,7 +38,7 @@ This project leverages deep learning to build an accurate and intuitive plant di
 
 ---
 ### 📈 AI Stock Price Prediction System (LSTM + GRU + ARIMA)
-<img src="stock_banner.png" width="800" alt="Stock Price Prediction Banner"/>
+<img src="stock_banner.png" width="500" alt="Stock Price Prediction Banner"/>
 
 A deep learning based financial forecasting system built using **LSTM**, **GRU**, and **ARIMA** models for multivariate time-series prediction. The project focuses on capturing long-term temporal dependencies in stock price movements by integrating **technical indicators** such as **SMA, EMA, RSI, and MACD** as input features.  
 
