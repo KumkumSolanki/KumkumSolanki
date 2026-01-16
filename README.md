@@ -32,19 +32,18 @@ I turn research ideas into **usable, fast demos**. Recently exploring **real‑t
 ## 🚀 Featured Projects
 ### 1. Plant Disease Detection  
 
-[<img src="assets/proj1.png" width="500" alt="Plant Disease Detection Project"/>](https://github.com/adityadorwal/plant-disease-detection)  
+[<img src="assets/proj1.png" width="500" alt="Plant Disease Detection Project"/>](https://github.com/kumkumsolanki/plant-disease-detection)  
 
 This project leverages deep learning to build an accurate and intuitive plant disease detection system. It utilizes a **ResNet18** model to classify plant leaf images, and integrates **Grad-CAM** to provide visual explanations of the model's predictions, making the AI's decision-making process transparent to the user. The application is deployed with **Streamlit** for a clean, user-friendly interface.  
 
 ---
+### 📈 AI Stock Price Prediction System (LSTM + GRU + ARIMA)
 
-### 2. Whisper.cpp Transcriber (RT)  
+A deep learning based financial forecasting system built using **LSTM**, **GRU**, and **ARIMA** models for multivariate time-series prediction. The project focuses on capturing long-term temporal dependencies in stock price movements by integrating **technical indicators** such as **SMA, EMA, RSI, and MACD** as input features.  
 
-[<img src="assets/proj2.png" width="500" alt="Whisper.cpp Real-Time Speech Transcriber"/>](https://github.com/adityadorwal)  
+To enhance reliability, the system provides **30-day future price forecasts with confidence intervals**, along with **up/down probability estimation** to quantify directional uncertainty. A comparative evaluation is performed using **RMSE**, demonstrating the superior performance of GRU over LSTM and ARIMA.  
 
-A real-time speech transcription tool built around **Whisper.cpp**. This project focuses on creating a highly efficient and low-latency system by incorporating **Voice Activity Detection (VAD)** to filter out silence and **hotword detection** for activation. The use of an **asynchronous architecture** ensures a smooth, non-blocking user experience, making it suitable for live-transcription tasks.  
-
----
+The entire pipeline is deployed as an **interactive Streamlit web application**, enabling users to input any stock ticker and visualize predictions, uncertainty bands, and model comparisons in real time.
 
 
 ---
@@ -54,7 +53,7 @@ A real-time speech transcription tool built around **Whisper.cpp**. This project
 </p>
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/kumkum-solanki-892a40281/) · [Portfolio](https://adityadorwal.github.io/portfolio/) · [Email](Contact: kumkumsolanki0111@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kumkum-solanki-892a40281/) · [Portfolio](https://adityadorwal.github.io/portfolio/) · [Email](kumkumsolanki0111@gmail.com
 )
 ---
 
