@@ -46,13 +46,7 @@ A real-time speech transcription tool built around **Whisper.cpp**. This project
 
 ---
 
-### 3. Dorwal AI — Assistant  
 
-[<img src="assets/proj3.png" width="500" alt="Dorwal AI — Local Desktop Assistant"/>](https://github.com/adityadorwal)  
-
-A personal desktop assistant powered by a **Local LLM (Large Language Model)**, designed for privacy and offline use. The assistant processes natural language requests (**NLP**) directly on the user's machine, enabling a wide range of tasks from answering questions to automating workflows without an internet connection. This project highlights the potential of powerful, privacy-first desktop AI tools.  
-
----
 
 ## 📊 Live Stats
 <p align="center">
