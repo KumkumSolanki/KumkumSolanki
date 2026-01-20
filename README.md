@@ -54,7 +54,7 @@ The entire pipeline is deployed as an **interactive Streamlit web application**,
 </p>
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/kumkum-solanki-892a40281/) · [Portfolio](https://adityadorwal.github.io/portfolio/) · [Email](kumkumsolanki0111@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kumkum-solanki-892a40281/) · [Email](kumkumsolanki0111@gmail.com
 )
 ---
 
