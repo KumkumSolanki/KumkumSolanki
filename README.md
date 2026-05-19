@@ -49,6 +49,22 @@ The entire pipeline is deployed as an **interactive Streamlit web application**,
 
 ---
 
+---
+
+### 🚦 AI Traffic Density Detection System (YOLOv8 + OpenCV + Streamlit)
+
+<img src="traffic_banner.png" width="500" alt="AI Traffic Density Detection Banner"/>
+
+An AI-powered intelligent traffic monitoring system developed using **YOLOv8**, **OpenCV**, and **Streamlit** for real-time vehicle detection and traffic density analysis. The system processes uploaded traffic videos and live webcam feeds to detect vehicles, count traffic flow, and classify congestion levels into **Low**, **Medium**, and **High** density categories.
+
+The project includes a modern **interactive analytics dashboard** with live vehicle count metrics, traffic status indicators, emergency vehicle alerts, and dynamic traffic graphs for real-time visualization and monitoring.
+
+To enhance traffic management capabilities, the system also performs **emergency vehicle detection simulation**, triggering instant congestion alerts to support smarter traffic monitoring and intelligent transportation systems.
+
+The complete pipeline is deployed as an **interactive Streamlit web application**, enabling users to monitor traffic conditions, analyze congestion trends, and visualize live detection results directly from the browser in real time.
+
+---
+
 
 
 <p align="center">
