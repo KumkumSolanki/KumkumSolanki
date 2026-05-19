@@ -30,7 +30,7 @@ I turn research ideas into **usable, fast demos**. Recently exploring **real‑t
 ---
 
 ## 🚀 Featured Projects
-### 1. Plant Disease Detection  
+###  Plant Disease Detection  
 
 [<img src="assets/proj1.png" width="500" alt="Plant Disease Detection Project"/>](https://github.com/kumkumsolanki/plant-disease-detection)  
 
@@ -48,6 +48,8 @@ The entire pipeline is deployed as an **interactive Streamlit web application**,
 
 
 ---
+
+
 
 <p align="center">
   <img src="assets/cat_gif.gif" alt="Cat_gif" width="500"/>
