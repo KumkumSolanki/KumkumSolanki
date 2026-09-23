@@ -20,7 +20,7 @@
 ## 🔥 About
 I turn research ideas into **usable, fast demos**. Recently exploring **real‑time speech transcription**, **explainable computer vision**, and **efficient ML pipelines**.
 
-- 🎓 B.Tech (AIML), KCC — 4th year
+- 🎓 B.Tech (AIML), KCC ,2026 Passed Out
 - 🧠 Interested in: **Whisper.cpp**, **Grad‑CAM**, **local LLMs**, and **offline‑first AI tools**
 - 🤝 Open to: **SDE/ML internships**, open‑source collabs
 - ⚡ Real-time speech & local AI tools
