@@ -31,12 +31,12 @@ I turn research ideas into **usable, fast demos**. Recently exploring **real‑t
 ---
 
 ## 🚀 Featured Projects
-### 📄 ResuMatch 2.0
+### 📄 ResuMatch 
 
 [<img src="ResuMatch%20Banner.png" width="625" alt="ResuMatch Project"/>](https://resumatch-1wwb.onrender.com)
 
 
-ResuMatch 2.0 is a full-stack career intelligence platform designed to help job seekers analyze, improve, and optimize their resumes for better career opportunities.
+ResuMatch  is a full-stack career intelligence platform designed to help job seekers analyze, improve, and optimize their resumes for better career opportunities.
 
 The platform allows users to upload their resumes in PDF format and receive a comprehensive analysis, including ATS score, resume breakdown, missing keywords, skill gap identification, and personalized improvement suggestions.
 
