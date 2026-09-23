@@ -31,6 +31,18 @@ I turn research ideas into **usable, fast demos**. Recently exploring **real‑t
 ---
 
 ## 🚀 Featured Projects
+### 📄 ResuMatch 2.0
+
+[![ResuMatch](images/resumatch.png)](https://resumatch-1wwb.onrender.com)
+
+ResuMatch 2.0 is a full-stack career intelligence platform designed to help job seekers analyze, improve, and optimize their resumes for better career opportunities.
+
+The platform allows users to upload their resumes in PDF format and receive a comprehensive analysis, including ATS score, resume breakdown, missing keywords, skill gap identification, and personalized improvement suggestions.
+
+**Tech Stack:** React, FastAPI, Python, NLP
+
+🔗 [Live Demo](https://resumatch-1wwb.onrender.com)
+
 ###  Plant Disease Detection  
 
 [<img src="assets/proj1.png" width="500" alt="Plant Disease Detection Project"/>](https://github.com/kumkumsolanki/plant-disease-detection)  
